@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "files.exclude": {
+    "web/node_modules": true
+  }
+}
